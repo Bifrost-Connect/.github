@@ -2,7 +2,7 @@
 
 > **Tecnologia em Sincronia**
 
-Nossa equipe, a **Bifrost**, surgiu durante a realização de um projeto integrador na Faculdade de Tecnologia (Fatec), no curso de Desenvolvimento de Software Multiplataforma (DSM). 
+Nossa equipe, a **Bifrost**, surgiu durante a realização de um projeto integrador na Faculdade de Tecnologia (Fatec), no curso de Banco de Dados. 
 
 Optamos por esse nome e pelo conceito de "sincronia" porque ele representa a harmonia e a coordenação que cultivamos ao enfrentar desafios. Na Bifrost, consideramos a eficiência como um pilar essencial em tudo o que desenvolvemos.
 
